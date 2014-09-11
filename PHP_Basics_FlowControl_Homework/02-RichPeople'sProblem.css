@@ -1,0 +1,8 @@
+td,th, tr{
+    border: 1px solid deepskyblue;
+    padding: 3px;
+
+}
+table{
+    border-collapse: collapse;
+}
